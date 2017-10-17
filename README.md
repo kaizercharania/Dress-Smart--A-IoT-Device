@@ -1,1 +1,3 @@
 # Dress-Smart--A-IoT-Device
+The combination of fashion and technology has created a new revolution. The virtual mirrors are making a difference by decreasing the workload of sale’s person in a very smart way. Whenever we go to a trial room, we always thought that may be next size would be better or to check out different colors. 
+Now the virtual mirror made it easy by displaying options to select the colors and sizes that are available in the store. This way the internet of things is enhancing the consumer experience as well as increasing company’s sales in a retail sector. This technology saves time for consumers for they don’t have to change many apparels. 
